@@ -15,8 +15,8 @@ import com.twilio.type.PhoneNumber;
 public class MobileCallAppApplication implements ApplicationRunner 
 {
 	
-	private final static String SID_ACCOUNT = "AC4cf45840b6a3eb5782859fdedfbee3e6";
-	private final static String AUTH_ID = "6122346cd5566a158ec2409dde4453f9";
+	private final static String SID_ACCOUNT = ;
+	private final static String AUTH_ID = ;
 	private final static String FROM_NUMBER="+19286288013";
 	private final static String TO_NUMBER ="+918466014824";
 		
